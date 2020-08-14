@@ -1,0 +1,1 @@
+# Otokiralama-ve-Satis-Otomasyonu-SQL
